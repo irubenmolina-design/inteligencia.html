@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -73,21 +73,5 @@
             color: #666;
         }
     </style>
-</head>
-<body>
+</head
 
-    <h1>Inteligencias</h1>
-
-    <div class="container">
-        <a href="https://gemini.google.com" class="pill">Gemini</a>
-        <a href="https://chatgpt.com" class="pill">ChatGPT</a>
-        <a href="https://claude.ai" class="pill">Claude</a>
-        <a href="https://www.meta.ai" class="pill">Meta AI</a>
-    </div>
-
-    <div class="footer">
-        Acceso Rápido
-    </div>
-
-</body>
-</html>
